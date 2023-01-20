@@ -1,4 +1,4 @@
-Artur
-London
-Front-End Development
+Arpita 
+India
+Full Stack Development
 
